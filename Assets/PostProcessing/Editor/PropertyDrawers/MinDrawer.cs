@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.PostProcessing;
 
-namespace UnityEditor.PostProcessing
+/*namespace UnityEditor.PostProcessing
 {
     [CustomPropertyDrawer(typeof(MinAttribute))]
     sealed class MinDrawer : PropertyDrawer
@@ -27,3 +27,4 @@ namespace UnityEditor.PostProcessing
         }
     }
 }
+*/
